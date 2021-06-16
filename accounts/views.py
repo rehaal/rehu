@@ -1,6 +1,7 @@
 from accounts.models import Profile
 from django.shortcuts import redirect, render
 from django.contrib.auth.models import User
+from django.contrib.auth import get_user_model
 from django.contrib import messages
 from .models import *
 import uuid
