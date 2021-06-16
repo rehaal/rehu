@@ -25,7 +25,6 @@ IMDbPY==6.8
 mysql-connector-python==8.0.15
 netifaces==0.10.4
 oauthlib==3.1.0
-onboard==1.4.1
 packaging==20.3
 pycurl==7.43.0.2
 pyparsing==2.4.6
