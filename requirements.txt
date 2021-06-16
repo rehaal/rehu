@@ -9,6 +9,7 @@ dj-database-url==0.5.0
 configobj==5.0.6
 dbus-python==1.2.16
 distro==1.4.0
+dbus-python==1.2.16
 Django==3.1.6
 django-binary-database-files==1.0.14
 django-crispy-forms==1.12.0
