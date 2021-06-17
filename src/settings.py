@@ -25,7 +25,7 @@ SECRET_KEY = '!3!%6^1nqr8oj0$$ad&4)$hinyavz@nsz55l)+)%s()*=iyopm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','emailverifyreh.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','emailverifyreh.herokuapp.com']
 
 # Application definition
 
